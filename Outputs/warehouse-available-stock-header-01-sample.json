@@ -1,0 +1,32 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-warehouse-available-stock-reads-rmq-kube/SAP_API_Caller/caller.go#L52",
+	"function": "sap-api-integrations-warehouse-available-stock-reads-rmq-kube/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": {
+		"EWMWarehouse": "",
+		"Product": "",
+		"Batch": "",
+		"EWMStockOwner": "",
+		"EntitledToDisposeParty": "",
+		"EWMStockType": "",
+		"EWMStockUsage": "",
+		"StockDocumentCategory": "",
+		"EWMDocumentCategory": "",
+		"WBSElementExternalID": "",
+		"SpecialStockIdfgSalesOrder": "",
+		"SpecialStockIdfgSalesOrderItem": "",
+		"HandlingUnitExternalID": "",
+		"EWMStorageBin": "",
+		"EWMResource": "",
+		"WBSElementInternalID": "",
+		"EWMStorageType": "",
+		"AvailableEWMStockQty": 0,
+		"EWMStockQuantityBaseUnit": "",
+		"StockKeepingAlternativeUoM": "",
+		"GoodsReceiptUTCDateTime": "",
+		"ShelfLifeExpirationDate": "",
+		"EWMStockIsBlockedForInventory": false,
+		"EWMBatchIsInRestrictedUseStock": false
+	},
+	"time": "2022-03-03T16:37:56+09:00"
+}
